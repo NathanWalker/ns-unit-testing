@@ -2,6 +2,8 @@
 
 A NativeScript [Vue 3](https://nativescript-vue.org/) example demonstrating unit testing platform native APIs as outlined in the [Unit Testing Documentation](https://docs.nativescript.org/guide/testing).
 
+https://github.com/user-attachments/assets/67a899e2-0794-4c7d-8111-c55f8b55ce23
+
 Any project can setup unit testing via `ns test init`
 
 ### Test iOS and Android APIs
