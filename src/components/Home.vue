@@ -16,17 +16,6 @@ const message = computed(() => {
 function logMessage() {
   console.log('You have tapped the message!');
 }
-
-let interval: any;
-onMounted(() => {
-  console.log('mounted');
-  interval = setInterval(() => counter.value++, 100);
-});
-
-onUnmounted(() => {
-  console.log('unmounted');
-  clearInterval(interval);
-});
 </script>
 
 <template>
